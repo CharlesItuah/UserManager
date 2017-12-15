@@ -1,0 +1,17 @@
+Based on the Andela Learning Community powered by Microsoft Advanced (DevOps) Track Assessment
+
+The following exercises took place
+
+1. I downloaded Docker on my PC 
+
+2. I forked the application repository
+
+3. I also downloaded GIT, node, Sublime Text, Monogodb
+
+4. I downloaded Docker locally as well
+
+5. My host is 27017
+
+6. I created a dockerfile for mongodb and wrote an entry point script
+
+7. All processes complete
